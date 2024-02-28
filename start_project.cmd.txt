@@ -1,0 +1,6 @@
+@echo off
+echo Starting Vue.js Project...
+npm run serve
+
+echo Vue.js Project has started. Now running another command...
+json-server --watch users.json --port 3000

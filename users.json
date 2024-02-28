@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "Shubham",
+      "email": "shubham@test.com",
+      "password": "shubhz@123",
+      "id": 1
+    },
+    {
+      "name": "Abhishek",
+      "email": "abhi123@test.com",
+      "password": "abhi@123",
+      "id": 2
+    },
+    {
+      "email": "amruta123@test.com",
+      "name": "amruta",
+      "password": "amu123",
+      "id": 3
+    },
+    {
+      "email": "hey@test.com",
+      "name": "say",
+      "password": "sayHey",
+      "id": 9
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "Pune, Aundh, Westend mall",
+      "contact": 111
+    },
+    {
+      "name": "Spice Factrory",
+      "address": "Pune, Hinjawdi",
+      "contact": 222,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Burger King",
+      "address": "Pune, Aundh, Westend mall",
+      "contact": 333
+    },
+    {
+      "id": 4,
+      "name": "Dominos",
+      "address": "Pune, Aundh, Gayakwad square",
+      "contact": 444
+    },
+    {
+      "name": "Hippy at Hearts",
+      "address": "Balewadi, Pune",
+      "contact": "19019",
+      "id": 6
+    },
+    {
+      "name": "Barberry",
+      "address": "Pune, Kothrud",
+      "contact": "7777",
+      "id": 7
+    }
+  ]
+}
